@@ -1,0 +1,25 @@
+{
+  "name": "fivem-squex",
+  "version": "1.0.0",
+  "description": "FiveM resource scaffolding CLI tool",
+  "bin": {
+    "fivem-squex": "./bin/create.js"
+  },
+  "keywords": [
+    "fivem",
+    "gta5",
+    "scaffold",
+    "boilerplate",
+    "resource",
+    "cli"
+  ],
+  "author": "Squex",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EditSquex/fivem-squex.git"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
